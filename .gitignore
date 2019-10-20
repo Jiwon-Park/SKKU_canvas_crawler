@@ -105,3 +105,6 @@ venv.bak/
 
 #private data
 private_data.py
+
+#visual studio code
+.vscode/
