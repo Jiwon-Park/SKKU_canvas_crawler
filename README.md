@@ -3,4 +3,8 @@ Crawler for SKKU next-generation i-campus
 
 including PyCrypto dome library
 
-please insert information in private_data.py
+please create information in private_data.py
+```
+userid='user_id'
+password='password'
+```
